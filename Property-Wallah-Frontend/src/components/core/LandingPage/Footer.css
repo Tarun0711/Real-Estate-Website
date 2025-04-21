@@ -1,0 +1,230 @@
+.div-footer {
+  align-items: flex-start;
+  background-color: #151c22;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 42px 160.69px 69.99px 200.67px;
+  position: relative;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  bottom: 0;
+}
+
+.div-footer .div-footer-2 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.div-footer .div-footer-3{
+  position: relative;
+  width:50%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.div-footer .text-wrapper-46 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 17px;
+  font-weight: 750;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  margin-bottom: 10px;
+}
+
+.div-footer .text-wrapper-48 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.div-footer .list {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  top: 10px;
+}
+
+.div-footer .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.div-footer .div-wrapper-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 200px;
+  line-height: 20px;
+  max-height: 35px;
+}
+
+.div-footer .div-wrapper-2a {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 200px;
+  line-height: 20px;
+  max-height: 20px;
+}
+
+.div-footer .list-2 {
+  position: relative;
+  width: 30%;
+}
+
+.div-footer .text-wrapper-52 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.div-footer .text-wrapper-53 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.7;
+  margin-top: 6px;
+  white-space: nowrap;
+}
+
+.div-footer .text-wrapper-54 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  margin-top: 25px;
+}
+
+.div-footer .text-wrapper-55 {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  margin-top: 25px;
+}
+
+.div-footer .overlap-8 {
+  margin-top: 15px;
+  position: relative;
+  width: 100%;
+}
+
+
+.div-footer .div-footer-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 30px;
+  position: relative;
+}
+
+.div-footer .get-it-img {
+  position: relative;
+  width: 160px;
+  height: 47px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+.div-footer .p-caption-subdued {
+  position: relative;
+  margin-top: 10px;
+  height: 45px;
+}
+
+.div-footer .text-wrapper-57 {
+  color: #ffffffe6;
+  font-family: "Open Sans", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.div-footer .link-report-abuse {
+  color: #3c9cfc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 10px;
+  font-weight: 600;
+  height: 12px;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+  margin-left: 4px;
+}
+
+.div-footer .all-rights-reserved {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 10px;
+}
+
+.div-footer .link-naukri-com {
+  color: #3c9cfc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.div-footer a{
+  text-decoration: none;
+}
+
+.div-footer a:hover{
+  border: 0px;
+  text-decoration: none;
+}
+
+.div-footer .clicky{
+  cursor: pointer;
+}
